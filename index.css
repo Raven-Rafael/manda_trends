@@ -1,0 +1,66 @@
+body{
+    width: 100%;
+}
+
+.bg{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.bg1{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.bg2{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.head1, .head2, .head3, .head4{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; 
+}
+
+.head6, .head7, .head8, .head9, .head5{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; 
+}
+
+.prin1, .prin2, .prin3, .prin4, .prin5, .prin6, .prin7{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.esq1, .esq2, .esq3, .esq4, .esq5, .esq6, .esq7, .esq8{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.dir1, .dir2, .dir3, .dir4, .dir5, .dir6, .dir7, .dir8, .dir9, .dir10, .dir11, .dir12, .dir13{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.rod1, .rod2, .rod3{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
